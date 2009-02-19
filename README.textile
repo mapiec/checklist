@@ -70,3 +70,7 @@
 *** Monitor and respond to feedback (direct feedback, on Social Media sites, check for chatter through Google, etc.)	 
 *** Check analytics for problems, popular pages etc. and adjust as necessary	 
 *** Update content
+
+
+---
+based on http://www.boxuk.com/blog/the-ultimate-website-launch-checklist
