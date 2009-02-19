@@ -73,4 +73,7 @@
 
 
 ---
-based on http://www.boxuk.com/blog/the-ultimate-website-launch-checklist
+
+Based on http://www.boxuk.com/blog/the-ultimate-website-launch-checklist
+
+This is licensed under Creative Commons Attribution Noncommercial Share Alike http://creativecommons.org/licenses/by-nc-sa/3.0/
